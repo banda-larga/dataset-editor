@@ -1,4 +1,4 @@
-# Chat editor
+# Chat / Instructions Editor
 
 ## Description
 
